@@ -1,3 +1,7 @@
+# Yucheng Zhang Bootstrap Project 
+
+This is a class project designed to learn about Bootstrap 5. It was started on March 7 and is due on March 11.
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
